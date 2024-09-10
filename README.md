@@ -38,8 +38,8 @@ Make sure you have the following installed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-nextjs-signup-project.git
-cd your-nextjs-signup-project
+git clone https://github.com/your-username/signupPage-nextjs.git
+cd signupPage-nextjs
 ```
 
 ## Install Dependencies
