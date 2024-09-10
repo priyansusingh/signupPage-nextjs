@@ -9,6 +9,14 @@ This is a simple full-stack project built with Next.js. The project features a u
 - Data stored in a PostgreSQL database using Prisma ORM
 - Upon successful signup, the user is redirected to the home page
 
+
+## Home Page
+![screenshot](./assets/Screenshot%20from%202024-09-10%2010-57-17.png)
+
+## Signup Page
+![screenshot](./assets/Screenshot%20from%202024-09-10%2010-57-49.png)
+
+
 ## Tech Stack
 
 - **Frontend**: Next.js, React.js
